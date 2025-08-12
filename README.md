@@ -108,7 +108,8 @@ cargo build --release
 
 Binary output:
 - Linux/macOS: `./target/release/dirust`
-- Windows: `.	argetelease\dirust.exe`
+- Windows: `.	arget
+elease\dirust.exe`
 
 Raspberry Pi:
 - Build on the Pi directly (recommended), or cross-compile using the appropriate target (`aarch64-unknown-linux-gnu` or `armv7-unknown-linux-gnueabihf`) and system linker.
@@ -210,7 +211,7 @@ Open a PR with a clear description and example commands. Bug reports with repro 
 
 ## License
 
-MIT License — see `LICENSE`.
+MIT License — [See LICENSE](./LICENSE)
 
 ---
 
