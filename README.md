@@ -211,7 +211,7 @@ Open a PR with a clear description and example commands. Bug reports with repro 
 
 ## License
 
-MIT License — [See LICENSE](./LICENSE)
+MIT License — [See LICENSE](./LICENSE.md)
 
 ---
 
